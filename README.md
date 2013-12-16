@@ -85,3 +85,6 @@ The above code will be sent to the browser like this:
 		border-radius: 10px;
 		-moz-border-radius: 10px;
 	}
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jesseweed/posecss/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
